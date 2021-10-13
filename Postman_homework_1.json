@@ -180,7 +180,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://162.55.220.72:5005/user_info_3?name=Gleb&age=30&salary=600",
+					"raw": "http://162.55.220.72:5005/object_info_3?name=Gleb&age=30&salary=600",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -190,7 +190,7 @@
 					],
 					"port": "5005",
 					"path": [
-						"user_info_3"
+						"object_info_3"
 					],
 					"query": [
 						{
